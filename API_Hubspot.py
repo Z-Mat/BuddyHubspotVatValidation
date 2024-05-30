@@ -4,8 +4,8 @@ import json
 from booklogging import *
 from Credential import *
 
-logbooktxtName = logbooktxtName0
-logbooktxtName2 = logbooktxtName1
+logbooktxtName = "logbook.txt"
+logbooktxtName2 = "logOFHubspor-vat-validation.txt"
 
 token= tokenHubspot
             
